@@ -9,6 +9,7 @@
     --hero-button-color-accent: #188CE8;
     --hero-background-color: #C4C4C4;
     /* cubic-bezier(0.4, 0, 0.2, 1) */
+    --cubic-function: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
     /* gallery */
     --gallery-cards-gap: 30px;
